@@ -1,0 +1,9 @@
+* tmpdir
+
+Simple functions and macros for temporary directories.
+
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/moderninterpreters/tmpdir.git |
+| commit  | e198128                                              |
+| systems | tmpdir                                               |
+|---------+------------------------------------------------------|
